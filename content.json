@@ -1,0 +1,66 @@
+{
+  "profile": {
+    "name": "Bozo Tech",
+    "handle": "@bozo.tech",
+    "bio": "Apps, games & other tech stuff.",
+    "email": "androidbozooffical@gmail.com",
+    "tiktok": "https://www.tiktok.com/@bozo.tech",
+    "youtube": "",
+    "avatar": "",
+    "banner": ""
+  },
+  "apps": [
+    {
+      "name": "BlockAds",
+      "description": "Blocks ads and trackers across Android using local VPN-based DNS filtering. Includes custom blocklists and allow rules, with no root needed.",
+      "logo": "https://github.com/pass-with-high-score/blockads-android/raw/main/fastlane/metadata/android/en-US/images/icon.png",
+      "url": "https://github.com/pass-with-high-score/blockads-android/releases"
+    },
+    {
+      "name": "Fokus Launcher",
+      "description": "A minimal Android launcher with a text-based home screen, clock, optional weather and quick app search. Gesture shortcuts keep your everyday apps easy to reach.",
+      "logo": "https://f-droid.org/repo/io.github.luantak.fokuslauncher/en-US/icon_VtIrhx3eXBtWwCkMC-8FgdwJZJ65KpdGrLtcySoDomg=.png",
+      "url": "https://github.com/luantak/FokusLauncher/releases"
+    },
+    {
+      "name": "ArchiveTune",
+      "description": "An Android music player for your local music collection, with YouTube Music support. Browse your library and keep your listening in one place.",
+      "logo": "https://github.com/rukamori/ArchiveTune/raw/main/fastlane/metadata/android/en-US/images/icon.png",
+      "url": "https://github.com/rukamori/ArchiveTune/releases"
+    }
+  ],
+  "playlists": [
+    {
+      "title": "Best Android Apps",
+      "description": "Android app picks from my TikTok posts.",
+      "url": "https://www.tiktok.com/@bozo.tech/playlist/Best%20Android%20Apps-7677049156758424321"
+    },
+    {
+      "title": "Buyer's guide",
+      "description": "Buying tips and things to check before you choose.",
+      "url": "https://www.tiktok.com/@bozo.tech/playlist/Buyer's%20guide-7677049595746732801"
+    },
+    {
+      "title": "Best Games",
+      "description": "Games worth checking out.",
+      "url": "https://www.tiktok.com/@bozo.tech/playlist/Best%20Games-7680055034100468496"
+    },
+    {
+      "title": "Tutorials",
+      "description": "Step-by-step tech tutorials.",
+      "url": "https://www.tiktok.com/@bozo.tech/playlist/Tutorials-7677049595746831105"
+    },
+    {
+      "title": "News and Infos",
+      "description": "Tech news and useful info.",
+      "url": "https://www.tiktok.com/@bozo.tech/playlist/News%20and%20Infos-7677120315390036753"
+    }
+  ],
+  "guides": [
+    {
+      "title": "How to download from GitHub",
+      "description": "Find the release, choose an APK and install it.",
+      "url": "https://www.tiktok.com/@bozo.tech/photo/7676398263221669138"
+    }
+  ]
+}

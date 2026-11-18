@@ -1,0 +1,159 @@
+{
+  "media": {
+    "input": "media",
+    "output": "/media",
+    "categories": [
+      "image"
+    ]
+  },
+  "content": [
+    {
+      "name": "site",
+      "label": "Bozo Tech content",
+      "type": "file",
+      "path": "content.json",
+      "format": "json",
+      "fields": [
+        {
+          "name": "profile",
+          "label": "Profile",
+          "type": "object",
+          "fields": [
+            {
+              "name": "name",
+              "label": "Name",
+              "type": "string"
+            },
+            {
+              "name": "handle",
+              "label": "TikTok handle",
+              "type": "string"
+            },
+            {
+              "name": "bio",
+              "label": "Bio",
+              "type": "text"
+            },
+            {
+              "name": "email",
+              "label": "Email",
+              "type": "string"
+            },
+            {
+              "name": "tiktok",
+              "label": "TikTok link",
+              "type": "string"
+            },
+            {
+              "name": "youtube",
+              "label": "YouTube link (leave empty for toast)",
+              "type": "string"
+            },
+            {
+              "name": "avatar",
+              "label": "Profile picture",
+              "type": "image"
+            },
+            {
+              "name": "banner",
+              "label": "Banner image",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "name": "apps",
+          "label": "Suggested Apps",
+          "type": "object",
+          "list": true,
+          "fields": [
+            {
+              "name": "name",
+              "label": "Name",
+              "type": "string",
+              "required": true
+            },
+            {
+              "name": "description",
+              "label": "Description",
+              "type": "text"
+            },
+            {
+              "name": "url",
+              "label": "Link",
+              "type": "string",
+              "required": true,
+              "pattern": {
+                "regex": "^https?://",
+                "message": "Enter a full https:// link"
+              }
+            },
+            {
+              "name": "logo",
+              "label": "App logo",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "name": "playlists",
+          "label": "Playlists",
+          "type": "object",
+          "list": true,
+          "fields": [
+            {
+              "name": "title",
+              "label": "Name",
+              "type": "string",
+              "required": true
+            },
+            {
+              "name": "description",
+              "label": "Description",
+              "type": "text"
+            },
+            {
+              "name": "url",
+              "label": "Link",
+              "type": "string",
+              "required": true,
+              "pattern": {
+                "regex": "^https?://",
+                "message": "Enter a full https:// link"
+              }
+            }
+          ]
+        },
+        {
+          "name": "guides",
+          "label": "Guides & Tutorials",
+          "type": "object",
+          "list": true,
+          "fields": [
+            {
+              "name": "title",
+              "label": "Name",
+              "type": "string",
+              "required": true
+            },
+            {
+              "name": "description",
+              "label": "Description",
+              "type": "text"
+            },
+            {
+              "name": "url",
+              "label": "Link",
+              "type": "string",
+              "required": true,
+              "pattern": {
+                "regex": "^https?://",
+                "message": "Enter a full https:// link"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
