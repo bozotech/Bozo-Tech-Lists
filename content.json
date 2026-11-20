@@ -27,6 +27,114 @@
       "description": "An Android music player for your local music collection, with YouTube Music support. Browse your library and keep your listening in one place.",
       "logo": "https://github.com/rukamori/ArchiveTune/raw/main/fastlane/metadata/android/en-US/images/icon.png",
       "url": "https://github.com/rukamori/ArchiveTune/releases"
+    },
+    {
+      "name": "Filepipe",
+      "description": "-> Automatically manages your messy device storage and folders\n\n-> Open Source, No ads, Totally Free\n\n-> Customize the rule for the app to manage the files, Filters, Advanced Preview and more...\n\n-> Download it from Play Store or Github",
+      "logo": "https://f-droid.org/repo/dev.bikram.filepipe.gh/en-US/icon_4JCF3O02eJ7M19ytHwIVIPLpaJMpTt7FtxZytwqSfR8=.png",
+      "url": "https://github.com/bikram-agarwal/filepipe/releases"
+    },
+    {
+      "name": "Medtimer",
+      "description": "-> Medicine reminders and history with full offline privacy\n\n-> Open Source, No ads, Totally Free\n\n-> Easy and Unlimited medication, Customizable reminders, easy dose additions, weekend mode and more...\n\n-> Download it from Play Store or Github",
+      "logo": "https://f-droid.org/repo/com.futsch1.medtimer/en-US/icon_xLgkIq8ircRfYUyaODGW0Li4WgzWWPdrhrGaO9ZKVSU%3D.png",
+      "url": "https://github.com/Futsch1/medTimer/releases"
+    },
+    {
+      "name": "Sos Ring",
+      "description": "-> Make Important Calls audible even when your phone is in Silent/Dnd\n\n-> Open Source, No ads, Totally Free\n\n-> Pick contacts easily, adjust volume beforehand, message alerts for whatsapp,telegram,messages, and more....\n\n-> Download it from Github",
+      "logo": "https://f-droid.org/repo/com.lorenzomarci.sosring/en-US/icon_9oeVZtoQxUJ8S5Om5qqJiIoxJo57l0mUj_YWSbyS-8I=.png",
+      "url": "https://github.com/JackRushante/SOSRing/releases"
+    },
+    {
+      "name": "Widgets Anywhere",
+      "description": "-> Place widgets in lock screen along with home screen with ease\n\n-> Open Source, No ads, Totally Free\n\n-> Advanced Customization, Finger Gestures, widget drawer for lock screens and more...\n\n-> Download it from Github",
+      "logo": "https://android.izzysoft.de/frepo/tk.zwander.lockscreenwidgets/en-US/icon.png",
+      "url": "https://github.com/zacharee/LockscreenWidgets/releases"
+    },
+    {
+      "name": "Autopie",
+      "description": "-> Turn Linux commands into Android apps\n\n-> Open Source, No ads, No Subscriptions\n\n-> Linux environment where you can create, run, and automate Bash commands or Python scripts without using a terminal\n\n-> Download it from Github",
+      "logo": "https://f-droid.org/repo/com.autopi/en-US/icon_0rwD3BI7MWHXOt-a5C2BynnG92lPjzGj9nX2M-ipT3I=.png",
+      "url": "https://github.com/cryptrr/AutoPie/releases"
+    },
+    {
+      "name": "QR Code Displayer",
+      "description": "-> Reconstruct damaged or blurry Qr codes entirely on-device\n\n-> Open Source, No ads, No Subscriptions\n\n-> Share blurry/damaged QR codes to this app and it will decode the original code using math\n\n-> Download it from Github",
+      "logo": "https://f-droid.org/repo/app.cbdm.qrcodedisplayer/en-US/icon_6bdEFhm1CQ1ReymGRml-XTqsPpg8vSNnbbC0MKE7EPU=.png",
+      "url": "https://github.com/cbdm/QRCodeDisplayer/releases"
+    },
+    {
+      "name": "Bluetooth Volume Manager",
+      "description": "-> Individual voice & music volume Customization for Bluetooth devices\n\n-> Open Source, No ads, No Subscriptions\n\n-> Per-device equaliser with presets, Volume boost, auto-media commands...\n\n-> Download it from Play Store or Github",
+      "logo": "https://apt.izzysoft.de/fdroid/repo/eu.darken.bluemusic/en-US/icon.png",
+      "url": "https://github.com/d4rken-org/bluemusic/releases"
+    },
+    {
+      "name": "Orion Store",
+      "description": "-> Discover and download mods and patches of all kinds\n\n-> Open Source, No ads, No login, Totally free\n\n-> Serverless, allows sizuku integration, Detects dependencies(like micro G) before installation and more...\n\n-> Download it from Github",
+      "logo": "https://raw.githubusercontent.com/RookieEnough/Orion-Store/main/icon.png",
+      "url": "https://github.com/RookieEnough/Orion-Store/releases"
+    },
+    {
+      "name": "Privacium",
+      "description": "An open source app built to guide you through the world of digital privacy.",
+      "logo": "https://apt.izzysoft.de/fdroid/repo/com.kaleedtc.privacium/en-US/icon.png",
+      "url": "https://github.com/kaleedtc/Privacium/releases"
+    },
+    {
+      "name": "Punch-hole download indicator",
+      "description": "Free app that renders download progress as an animated ring around the camera cutout.",
+      "logo": "https://f-droid.org/repo/eu.hxreborn.phdp/en-US/icon_2qviv-4cIehSDb0Mm90oD5PBmqremQTkY9x-MyWmE0Q%3D.png",
+      "url": "https://github.com/hxreborn/punch-hole-download-progress/releases"
+    },
+    {
+      "name": "Easy Watermark",
+      "description": "Securely, easily add a watermark to your sensitive photos. To prevent them from being leaked or exploited.",
+      "logo": "https://f-droid.org/repo/me.rosuh.easywatermark/en-US/icon_UrWcEOUym1xL1rmFHB7OXZl_WxtbB1kNkZg6dE7Bqxw%3D.png",
+      "url": "https://github.com/rosuH/EasyWatermark/releases"
+    },
+    {
+      "name": "Chess Clock",
+      "description": "Fully featured chess clock to handle any time control. 100% free: no in-app purchases, no ads!",
+      "logo": "https://play-lh.googleusercontent.com/6P31mLNo1gBQ7nbRWodfRNdFQVVPHp1waoaF6gDWcoXsqdy4sWblZEXbB6_NoRrJLVatTZn2-kWZvbkMykcQuQ%3Dw240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.chess.clock"
+    },
+    {
+      "name": "Obtainium",
+      "description": "Obtainium allows you to install and update apps directly from their release pages, and receive notifications when new releases are made available.",
+      "logo": "https://f-droid.org/repo/dev.imranr.obtainium.fdroid/en-US/icon_8o6Dm3kPEr-C-8U1QdRd9B6DrkXPqLJQ7or0KN7ut_4%3D.png",
+      "url": "https://github.com/ImranR98/Obtainium/releases"
+    },
+    {
+      "name": "Blip",
+      "description": "Transfer files directly to anywhere in the world without loss of quality. It's free to use and supports android,ios,windows,mac.",
+      "logo": "https://play-lh.googleusercontent.com/9CMoJBD7hmf5HwLszbRmXEZPVzK6R7LizwGov-0BhYyGrPlyT1mHJDqif7PMPJ-RZDQlIWXhkUQwRKhSxgnl0is%3Dw240-h480",
+      "url": "https://blip.net/"
+    },
+    {
+      "name": "Nuvio",
+      "description": "A free, open-source media player for your phone, your desktop, and the TV... Install addons to watch anything for free.",
+      "logo": "https://avatars.githubusercontent.com/u/267417830?s=60&v=4",
+      "url": "https://www.nuvio.tv/"
+    },
+    {
+      "name": "SubIQ",
+      "description": "Keep track of subscriptions, recurring payments, and free trials in one place. Offers generous free tier and a lifetime subscription plan.",
+      "logo": "https://www.getsubiq.com/images/getsubiq-logo.png",
+      "url": "https://www.getsubiq.com/"
+    },
+    {
+      "name": "Super-productivity",
+      "description": "Free and Open Souece App that helps organize your daily tasks in one place while making time tracking a lot less annoying.",
+      "logo": "https://play-lh.googleusercontent.com/EK8GPgotL1nIze_bZKQRJugU5vd3QUzBCyejvkFdkAX6ooqrVDQIyrRYJKiCUKVhAuP_a2RwCOUH427BDGFMdQ%3Dw240-h480",
+      "url": "https://super-productivity.com/"
+    },
+    {
+      "name": "Focus Launcher",
+      "description": "Free and open source, text-only, black and white launcher with app timers and a weekly review and more...",
+      "logo": "https://f-droid.org/repo/com.focus.launcher/en-US/icon_azpek1Y5WMx5-hkvPuVU_4C6UdSWN5yMW899V6iszec%3D.png",
+      "url": "https://github.com/MasterPushers/focus-launcher/releases"
     }
   ],
   "playlists": [
