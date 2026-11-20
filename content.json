@@ -255,6 +255,108 @@
       "description": "A minimal text-based launcher with daily wallpapers and customization options to reduce distractions.",
       "logo": "https://f-droid.org/repo/app.olauncher/en-US/icon_dC7NX4YV3a8I-l_I9f4YUmeWYIdKAcVcU_0G4LaZnHw=.png",
       "url": "https://f-droid.org/en/packages/app.olauncher/"
+    },
+    {
+      "name": "Zarchiver",
+      "description": "Manage files and create or extract archives in formats such as ZIP, RAR, and 7z.",
+      "logo": "https://play-lh.googleusercontent.com/ubWO7zLAqlwlULUxKYZuzkPjQFT9U2-MDwHlubO5Eee-Lx3LUzUzhTG_X17NltWEAw3ES66-VtectWveKsBS=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver"
+    },
+    {
+      "name": "Stumble Guys",
+      "description": "Race through chaotic multiplayer obstacle courses and outlast other players to win.",
+      "logo": "https://play-lh.googleusercontent.com/v7cn-JqS-IMwCjnTkmDA-6s68B5_MdDsid2ObABpIOBYOuwiqkx4_OjZJQt2i-TLJxEaVWctKay1P98ctZWL7Q=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies"
+    },
+    {
+      "name": "Unboxing the Cryptic Killer",
+      "description": "A paid two-player cooperative puzzle game where you share clues to track down the Cryptic Killer.",
+      "logo": "https://play-lh.googleusercontent.com/1giu-ew2SSZOEwtxLFqaKcwwwTViN6rA6tQEEhqlUhuseE-CGamqeGaWlFQtxjseKlmJP2oj_nWQM7aV3c69=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.elevenpuzzles.unboxing"
+    },
+    {
+      "name": "Monkey Mobile Arena",
+      "description": "Play as a hunter gorilla or a fleeing monkey in fast-paced online games of tag.",
+      "logo": "https://play-lh.googleusercontent.com/_GI4nYTUfPBjxqb1hCZPw7KHs46ykgGWFfExiADUq3nNSTfSIVGe7LzfA_d6NYgsItyyI01VqPvWLydNiNiq0A=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=monkey.mobile.arena"
+    },
+    {
+      "name": "Polyfield",
+      "description": "A low-poly World War II shooter with team battles, control points, and vehicles.",
+      "logo": "https://play-lh.googleusercontent.com/BKt0StOr8COG8TDUw2s9PxPuYzd7HWhOd6F4vBjr2cnZgVyso_wq1tnT-QcoaKSZ7LKi0bNfvRogseLF6smzaA=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.MA.Polyfield"
+    },
+    {
+      "name": "Bomb Squad",
+      "description": "Battle friends or team up in explosive minigames with chaotic physics.",
+      "logo": "https://play-lh.googleusercontent.com/e9NhQr78NIzy0ACouLP2-uOZJoY2pcnz6uGD38JkWyW7qauTKH7JVl_GJgzYy7e8jgKfKEEqy8LFi7LOAIF_azY=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=net.froemling.bombsquad"
+    },
+    {
+      "name": "Them Bombs",
+      "description": "Work together to defuse a virtual bomb while teammates guide you using a separate manual.",
+      "logo": "https://play-lh.googleusercontent.com/6OFgz3TCrQjqSAsi87HD7VGouovi7JJeOiuzWEaznlPpZVm-EBZYSpt8cTKeQK1jfALgPxhz0YTW2ku4sXvuKQ=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.yellowdot.ThemBombsGP"
+    },
+    {
+      "name": "Unsolved Case",
+      "description": "Solve a mystery with a friend by sharing clues and puzzles shown on separate screens.",
+      "logo": "https://play-lh.googleusercontent.com/nbZaLtGZGW8O4K8oqPtt32FzbsXVLujUqPxOVladIVI1lr3PZCRlXUALm39NndhzbU9lfKrnAKNsBiRSxN7K=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.elevenpuzzles.unsolvedcase"
+    },
+    {
+      "name": "Soul Knight",
+      "description": "Explore randomized dungeons and fight monsters in a pixel-art shooter with cooperative play.",
+      "logo": "https://play-lh.googleusercontent.com/TdrboDoMaYLBSq0JssD72M0moyump0kDp8yFlgvWpyVZRUyG_XnpY_R99UPChDo4qg1-PZvVJhs7lXar8cBJ_dU=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter"
+    },
+    {
+      "name": "Stremio",
+      "description": "Organize and watch movies and series across devices using a media player with add-on support.",
+      "logo": "https://play-lh.googleusercontent.com/OvTwEXzvUbeyfqdXd1vZiTfbBOTdMAA6EWw5TV00PiSirn7C1iz__HVD6PfXCHkN9quH_XdoPwCIT3GhB1Ukmw=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.stremio.one"
+    },
+    {
+      "name": "Island",
+      "description": "Create an isolated Android work profile to clone apps and keep their data separate.",
+      "logo": "https://play-lh.googleusercontent.com/rsT0SkyzJF__JhGVbVJNWQqv3A0otlUpeJt3LO1vNU8RpUpmBpj-0iIytEny4tTfGNC1HwdoTt16vBreX3Z94g=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.oasisfeng.island"
+    },
+    {
+      "name": "Komi Store",
+      "description": "Discover, install, and update apps released on GitHub and other supported code-hosting platforms.",
+      "logo": "https://f-droid.org/repo/zed.rainxch.githubstore/en-US/icon_PMu-W9EJSA_l4_FVLNw-RjzT6XVZK-l7gmJANbBxzlY=.png",
+      "url": "https://github.com/komi-store/komi-store/releases"
+    },
+    {
+      "name": "Echo Music",
+      "description": "A YouTube Music client with synced lyrics, playlists, and offline playback.",
+      "logo": "https://echomusic.fun/assets/Echo.gif",
+      "url": "https://github.com/EchoMusicApp/Echo-Music/releases"
+    },
+    {
+      "name": "SimpMusic",
+      "description": "Browse music, manage playlists, and follow synced lyrics in an open-source YouTube Music client.",
+      "logo": "https://apt.izzysoft.de/fdroid/repo/com.maxrave.simpmusic/en-US/icon.png",
+      "url": "https://github.com/maxrave-dev/SimpMusic/releases"
+    },
+    {
+      "name": "Metrolist",
+      "description": "An Android YouTube Music client with background playback, lyrics, and library management.",
+      "logo": "https://apt.izzysoft.de/fdroid/repo/com.metrolist.music/en-US/icon.png",
+      "url": "https://github.com/MetrolistGroup/Metrolist/releases"
+    },
+    {
+      "name": "AuraMusic",
+      "description": "A YouTube Music client with an equalizer, synced lyrics, and shared listening features.",
+      "logo": "https://www.auramusic.site/_next/image?q=75&url=%2Fapp-icon.png&w=64",
+      "url": "https://github.com/TeamAuraMusic/AuraMusic/releases"
+    },
+    {
+      "name": "ViVi Music",
+      "description": "A customizable YouTube Music client with synced lyrics, offline playback, and background listening.",
+      "logo": "https://raw.githubusercontent.com/ViviMusicGroup/vivi-music-website/main/appicon/vivi.png",
+      "url": "https://github.com/vivizzz007/vivi-music/releases"
     }
   ],
   "playlists": [
