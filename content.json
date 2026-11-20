@@ -30,49 +30,49 @@
     },
     {
       "name": "Filepipe",
-      "description": "-> Automatically manages your messy device storage and folders\n\n-> Open Source, No ads, Totally Free\n\n-> Customize the rule for the app to manage the files, Filters, Advanced Preview and more...\n\n-> Download it from Play Store or Github",
+      "description": "Automatically organize files and folders with custom rules, filters, and previews.",
       "logo": "https://f-droid.org/repo/dev.bikram.filepipe.gh/en-US/icon_4JCF3O02eJ7M19ytHwIVIPLpaJMpTt7FtxZytwqSfR8=.png",
       "url": "https://github.com/bikram-agarwal/filepipe/releases"
     },
     {
       "name": "Medtimer",
-      "description": "-> Medicine reminders and history with full offline privacy\n\n-> Open Source, No ads, Totally Free\n\n-> Easy and Unlimited medication, Customizable reminders, easy dose additions, weekend mode and more...\n\n-> Download it from Play Store or Github",
-      "logo": "https://f-droid.org/repo/com.futsch1.medtimer/en-US/icon_xLgkIq8ircRfYUyaODGW0Li4WgzWWPdrhrGaO9ZKVSU%3D.png",
+      "description": "Manage medication reminders and dose history offline, with customizable schedules and snooze options.",
+      "logo": "https://f-droid.org/repo/com.futsch1.medtimer/en-US/icon_xLgkIq8ircRfYUyaODGW0Li4WgzWWPdrhrGaO9ZKVSU=.png",
       "url": "https://github.com/Futsch1/medTimer/releases"
     },
     {
       "name": "Sos Ring",
-      "description": "-> Make Important Calls audible even when your phone is in Silent/Dnd\n\n-> Open Source, No ads, Totally Free\n\n-> Pick contacts easily, adjust volume beforehand, message alerts for whatsapp,telegram,messages, and more....\n\n-> Download it from Github",
+      "description": "Let important calls and messages ring through silent mode or Do Not Disturb.",
       "logo": "https://f-droid.org/repo/com.lorenzomarci.sosring/en-US/icon_9oeVZtoQxUJ8S5Om5qqJiIoxJo57l0mUj_YWSbyS-8I=.png",
       "url": "https://github.com/JackRushante/SOSRing/releases"
     },
     {
       "name": "Widgets Anywhere",
-      "description": "-> Place widgets in lock screen along with home screen with ease\n\n-> Open Source, No ads, Totally Free\n\n-> Advanced Customization, Finger Gestures, widget drawer for lock screens and more...\n\n-> Download it from Github",
+      "description": "Add customizable widgets to your lock screen and access them through a widget drawer.",
       "logo": "https://android.izzysoft.de/frepo/tk.zwander.lockscreenwidgets/en-US/icon.png",
       "url": "https://github.com/zacharee/LockscreenWidgets/releases"
     },
     {
       "name": "Autopie",
-      "description": "-> Turn Linux commands into Android apps\n\n-> Open Source, No ads, No Subscriptions\n\n-> Linux environment where you can create, run, and automate Bash commands or Python scripts without using a terminal\n\n-> Download it from Github",
+      "description": "Create and automate Linux commands and Python scripts on Android without using a terminal.",
       "logo": "https://f-droid.org/repo/com.autopi/en-US/icon_0rwD3BI7MWHXOt-a5C2BynnG92lPjzGj9nX2M-ipT3I=.png",
       "url": "https://github.com/cryptrr/AutoPie/releases"
     },
     {
       "name": "QR Code Displayer",
-      "description": "-> Reconstruct damaged or blurry Qr codes entirely on-device\n\n-> Open Source, No ads, No Subscriptions\n\n-> Share blurry/damaged QR codes to this app and it will decode the original code using math\n\n-> Download it from Github",
+      "description": "Decode QR codes from shared images and display a clean, scannable version on your device.",
       "logo": "https://f-droid.org/repo/app.cbdm.qrcodedisplayer/en-US/icon_6bdEFhm1CQ1ReymGRml-XTqsPpg8vSNnbbC0MKE7EPU=.png",
       "url": "https://github.com/cbdm/QRCodeDisplayer/releases"
     },
     {
       "name": "Bluetooth Volume Manager",
-      "description": "-> Individual voice & music volume Customization for Bluetooth devices\n\n-> Open Source, No ads, No Subscriptions\n\n-> Per-device equaliser with presets, Volume boost, auto-media commands...\n\n-> Download it from Play Store or Github",
+      "description": "Set individual volume levels and audio preferences for each Bluetooth device.",
       "logo": "https://apt.izzysoft.de/fdroid/repo/eu.darken.bluemusic/en-US/icon.png",
       "url": "https://github.com/d4rken-org/bluemusic/releases"
     },
     {
       "name": "Orion Store",
-      "description": "-> Discover and download mods and patches of all kinds\n\n-> Open Source, No ads, No login, Totally free\n\n-> Serverless, allows sizuku integration, Detects dependencies(like micro G) before installation and more...\n\n-> Download it from Github",
+      "description": "Browse and install community apps, mods, and patches with dependency checks and Shizuku integration.",
       "logo": "https://raw.githubusercontent.com/RookieEnough/Orion-Store/main/icon.png",
       "url": "https://github.com/RookieEnough/Orion-Store/releases"
     },
@@ -85,31 +85,31 @@
     {
       "name": "Punch-hole download indicator",
       "description": "Free app that renders download progress as an animated ring around the camera cutout.",
-      "logo": "https://f-droid.org/repo/eu.hxreborn.phdp/en-US/icon_2qviv-4cIehSDb0Mm90oD5PBmqremQTkY9x-MyWmE0Q%3D.png",
+      "logo": "https://f-droid.org/repo/eu.hxreborn.phdp/en-US/icon_2qviv-4cIehSDb0Mm90oD5PBmqremQTkY9x-MyWmE0Q=.png",
       "url": "https://github.com/hxreborn/punch-hole-download-progress/releases"
     },
     {
       "name": "Easy Watermark",
       "description": "Securely, easily add a watermark to your sensitive photos. To prevent them from being leaked or exploited.",
-      "logo": "https://f-droid.org/repo/me.rosuh.easywatermark/en-US/icon_UrWcEOUym1xL1rmFHB7OXZl_WxtbB1kNkZg6dE7Bqxw%3D.png",
+      "logo": "https://f-droid.org/repo/me.rosuh.easywatermark/en-US/icon_UrWcEOUym1xL1rmFHB7OXZl_WxtbB1kNkZg6dE7Bqxw=.png",
       "url": "https://github.com/rosuH/EasyWatermark/releases"
     },
     {
       "name": "Chess Clock",
       "description": "Fully featured chess clock to handle any time control. 100% free: no in-app purchases, no ads!",
-      "logo": "https://play-lh.googleusercontent.com/6P31mLNo1gBQ7nbRWodfRNdFQVVPHp1waoaF6gDWcoXsqdy4sWblZEXbB6_NoRrJLVatTZn2-kWZvbkMykcQuQ%3Dw240-h480",
+      "logo": "https://play-lh.googleusercontent.com/6P31mLNo1gBQ7nbRWodfRNdFQVVPHp1waoaF6gDWcoXsqdy4sWblZEXbB6_NoRrJLVatTZn2-kWZvbkMykcQuQ=w240-h480",
       "url": "https://play.google.com/store/apps/details?id=com.chess.clock"
     },
     {
       "name": "Obtainium",
       "description": "Obtainium allows you to install and update apps directly from their release pages, and receive notifications when new releases are made available.",
-      "logo": "https://f-droid.org/repo/dev.imranr.obtainium.fdroid/en-US/icon_8o6Dm3kPEr-C-8U1QdRd9B6DrkXPqLJQ7or0KN7ut_4%3D.png",
+      "logo": "https://f-droid.org/repo/dev.imranr.obtainium.fdroid/en-US/icon_8o6Dm3kPEr-C-8U1QdRd9B6DrkXPqLJQ7or0KN7ut_4=.png",
       "url": "https://github.com/ImranR98/Obtainium/releases"
     },
     {
       "name": "Blip",
       "description": "Transfer files directly to anywhere in the world without loss of quality. It's free to use and supports android,ios,windows,mac.",
-      "logo": "https://play-lh.googleusercontent.com/9CMoJBD7hmf5HwLszbRmXEZPVzK6R7LizwGov-0BhYyGrPlyT1mHJDqif7PMPJ-RZDQlIWXhkUQwRKhSxgnl0is%3Dw240-h480",
+      "logo": "https://play-lh.googleusercontent.com/9CMoJBD7hmf5HwLszbRmXEZPVzK6R7LizwGov-0BhYyGrPlyT1mHJDqif7PMPJ-RZDQlIWXhkUQwRKhSxgnl0is=w240-h480",
       "url": "https://blip.net/"
     },
     {
@@ -127,14 +127,134 @@
     {
       "name": "Super-productivity",
       "description": "Free and Open Souece App that helps organize your daily tasks in one place while making time tracking a lot less annoying.",
-      "logo": "https://play-lh.googleusercontent.com/EK8GPgotL1nIze_bZKQRJugU5vd3QUzBCyejvkFdkAX6ooqrVDQIyrRYJKiCUKVhAuP_a2RwCOUH427BDGFMdQ%3Dw240-h480",
+      "logo": "https://play-lh.googleusercontent.com/EK8GPgotL1nIze_bZKQRJugU5vd3QUzBCyejvkFdkAX6ooqrVDQIyrRYJKiCUKVhAuP_a2RwCOUH427BDGFMdQ=w240-h480",
       "url": "https://super-productivity.com/"
     },
     {
       "name": "Focus Launcher",
       "description": "Free and open source, text-only, black and white launcher with app timers and a weekly review and more...",
-      "logo": "https://f-droid.org/repo/com.focus.launcher/en-US/icon_azpek1Y5WMx5-hkvPuVU_4C6UdSWN5yMW899V6iszec%3D.png",
+      "logo": "https://f-droid.org/repo/com.focus.launcher/en-US/icon_azpek1Y5WMx5-hkvPuVU_4C6UdSWN5yMW899V6iszec=.png",
       "url": "https://github.com/MasterPushers/focus-launcher/releases"
+    },
+    {
+      "name": "AI Edge Gallery",
+      "description": "Run generative AI models locally on your phone, with offline use after downloading a model.",
+      "logo": "https://play-lh.googleusercontent.com/jyeso0hR4_KYjjgP-7nkmm764G_3V7MeN7_SiHWjfXb5WV1Q_TvDG-G42FC6ifliU9hciNVB1oCGTwduqwlmFgs=w240-h480",
+      "url": "https://github.com/google-ai-edge/gallery/releases"
+    },
+    {
+      "name": "Organic Maps",
+      "description": "Explore offline maps and navigate walking, cycling, and driving routes using OpenStreetMap data.",
+      "logo": "https://f-droid.org/repo/app.organicmaps/en-US/icon_dE7f4P95-uKZwu7cI89Q0xSi_-gvU4DD-XnLoDG9RLg=.png",
+      "url": "https://f-droid.org/en/packages/app.organicmaps/"
+    },
+    {
+      "name": "Aurora Store",
+      "description": "Browse, download, and update Google Play apps without signing in to a personal Google account.",
+      "logo": "https://f-droid.org/repo/com.aurora.store/en-US/icon_tbAhwq51NNd0liZcTg0cQNNvazxrWlj7bPCe_1TkCV8=.png",
+      "url": "https://f-droid.org/en/packages/com.aurora.store/"
+    },
+    {
+      "name": "QR Alarm",
+      "description": "An alarm clock that makes you scan a QR code or barcode to dismiss the alarm.",
+      "logo": "https://f-droid.org/repo/com.sweak.qralarm/en-US/icon_tY6ids0HJryExb9I-owxBPg_7c0I5bc0pLSpAhGl-cQ=.png",
+      "url": "https://github.com/sweakpl/qralarm-android/releases"
+    },
+    {
+      "name": "SleepGuard",
+      "description": "Pause playback and lock your phone when you miss a wake-check prompt or a sleep timer expires.",
+      "logo": "https://f-droid.org/repo/com.sleepguard/en-US/icon_NFiXDCpR0pbGs67i2ci10vELGrpMRmYtxlO86OYb4Ug=.png",
+      "url": "https://github.com/OlafDrechsler/SleepGuard/releases"
+    },
+    {
+      "name": "BurnPony",
+      "description": "Share encrypted notes through links that expire after reading, without requiring the recipient to install an app.",
+      "logo": "https://f-droid.org/repo/com.burnpony.android/en-US/icon_3UVp9I9URK1PIBu1Muwc-bhUxAUQhpNBhGRd6mehekI=.png",
+      "url": "https://github.com/norsehorse-dev/BurnPonyAndroid/releases"
+    },
+    {
+      "name": "Compressor",
+      "description": "Compress videos on your device with adjustable quality, resolution, and target file size.",
+      "logo": "https://apt.izzysoft.de/fdroid/repo/compress.joshattic.us/en-US/icon.png",
+      "url": "https://github.com/JoshAtticus/Compressor/releases"
+    },
+    {
+      "name": "Earthquake Network",
+      "description": "Get earthquake alerts, view recent seismic activity, and read reports from other users.",
+      "logo": "https://play-lh.googleusercontent.com/5ko8RO4vFnEQaOy3GTrJFVPK2ojY8Y9YyvV8OjIhO8U4KKZUbqQ06Pk19Jjbp7-sTDVqOhSBFrDasorqs854Jcw=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.finazzi.distquake"
+    },
+    {
+      "name": "Material Photo Widget",
+      "description": "Create customizable home screen widgets and slideshows from your favorite photos.",
+      "logo": "https://play-lh.googleusercontent.com/TAHFHLO6LMT6bfV7m_1MUG3Odjnu7-6nra7egu6yG5OHdO9DYJ0-CjTOB7t1d_89IwqMxptYx8jqJtUq6d8Q=w240-h480",
+      "url": "https://github.com/fibelatti/photo-widget/releases"
+    },
+    {
+      "name": "Overmorrow",
+      "description": "Check detailed weather forecasts, radar, and air quality in a Material Design interface.",
+      "logo": "https://apt.izzysoft.de/fdroid/repo/com.marotidev.Overmorrow/en-US/icon.png",
+      "url": "https://github.com/bmaroti9/Overmorrow/releases"
+    },
+    {
+      "name": "Léon",
+      "description": "Remove tracking and unnecessary parameters from links before sharing them.",
+      "logo": "https://f-droid.org/repo/com.svenjacobs.app.leon/en-US/icon_0TpKYOySnqGg3Zf5j2DvaPsQPvwixVKjjeUnG5gMJZ4=.png",
+      "url": "https://github.com/leon-cleaning-services/leon/releases"
+    },
+    {
+      "name": "Calculator - Hide Files",
+      "description": "A working calculator that unlocks an encrypted vault for private files when you enter your passcode.",
+      "logo": "https://android.izzysoft.de/frepo/devs.org.calculator/en-US/icon.png",
+      "url": "https://github.com/Binondi/Calculator-Hide-Files/releases"
+    },
+    {
+      "name": "Pocket Tracker",
+      "description": "Track expenses, manage budgets, and import payment notifications from supported wallet apps.",
+      "logo": "https://play-lh.googleusercontent.com/o7MKIAFWkNPQnJ56JvPXPmK3pS3W4sO__qi6nuUmyOHJuBfA8P2bic61IUErVp0p8xMY6X0ZjCZOeSqPGHcH=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=app.replit.pockettracker"
+    },
+    {
+      "name": "KDE Connect",
+      "description": "Connect your phone and computer to share files, sync notifications, and control devices remotely.",
+      "logo": "https://f-droid.org/repo/org.kde.kdeconnect_tp/en-US/icon_XJXXjUP0BrUH-hGNaCgoKnwUsJ0c2QNgTdISfc_KivI=.png",
+      "url": "https://f-droid.org/en/packages/org.kde.kdeconnect_tp/"
+    },
+    {
+      "name": "Permission Pilot",
+      "description": "Review app permissions in one place, monitor changes, and export permission reports.",
+      "logo": "https://apt.izzysoft.de/fdroid/repo/eu.darken.myperm/en-US/icon.png",
+      "url": "https://github.com/d4rken-org/permission-pilot/releases"
+    },
+    {
+      "name": "Twine",
+      "description": "Read news and articles from your favorite RSS feeds, with bookmarks and pinned feeds.",
+      "logo": "https://apt.izzysoft.de/fdroid/repo/dev.sasikanth.rss.reader/en-US/icon.png",
+      "url": "https://github.com/msasikanth/twine/releases"
+    },
+    {
+      "name": "Detoxdroid",
+      "description": "Reduce distracting phone use with grayscale mode, app-opening pauses, and scrolling interruptions.",
+      "logo": "https://f-droid.org/repo/com.flx_apps.digitaldetox/en-US/icon_S8ikZ3nfgGaueRyPjw39qFGCVRLnr9nsrICc27yxFgc=.png",
+      "url": "https://f-droid.org/en/packages/com.flx_apps.digitaldetox/"
+    },
+    {
+      "name": "BattleCall",
+      "description": "Wake up with an alarm that requires challenges such as maths, typing, or QR scanning to dismiss.",
+      "logo": "https://play-lh.googleusercontent.com/6HZtUw9cMpTFF3GRlAz2E0uP5P8OFlJYG29AiEw6VR35vX1SnH91LYVT7XzYHQBY5KFMgv07RKryB0T5Db1GPjk=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.battlecall.app"
+    },
+    {
+      "name": "Super Statusbar",
+      "description": "Customize your status bar with gestures, notification ticker text, and brightness or volume controls.",
+      "logo": "https://play-lh.googleusercontent.com/VtkeCRqE5hPgx6CJNkGaD8R20WQ4iJyJIV0sxxpHFAO4Sg_TLvsGpATXyC_RefH02oywT7DoRxcQdBvEiNcETbA=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.tombayley.statusbar"
+    },
+    {
+      "name": "Olauncher",
+      "description": "A minimal text-based launcher with daily wallpapers and customization options to reduce distractions.",
+      "logo": "https://f-droid.org/repo/app.olauncher/en-US/icon_dC7NX4YV3a8I-l_I9f4YUmeWYIdKAcVcU_0G4LaZnHw=.png",
+      "url": "https://f-droid.org/en/packages/app.olauncher/"
     }
   ],
   "playlists": [
