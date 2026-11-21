@@ -357,6 +357,120 @@
       "description": "A customizable YouTube Music client with synced lyrics, offline playback, and background listening.",
       "logo": "https://raw.githubusercontent.com/ViviMusicGroup/vivi-music-website/main/appicon/vivi.png",
       "url": "https://github.com/vivizzz007/vivi-music/releases"
+    },
+    {
+      "name": "AppFlowy",
+      "description": "Organize notes, tasks, documents, and projects in an open-source workspace with collaborative editing.",
+      "logo": "https://play-lh.googleusercontent.com/jAnqEcb0GHga2ngsrTP29Rut8mvBNADNSzuzbV2GUOPc6ZeQP3CEwwRmhJCPCP-DyiI4oFtN9j0R2oasNVipKg=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=io.appflowy.appflowy"
+    },
+    {
+      "name": "SynEdge",
+      "description": "Customize Android's volume panel with themed sliders, skins, and controls that work over other apps.",
+      "logo": "https://play-lh.googleusercontent.com/f4cWVD6RdpzpUkGMr_nYt0EWKc7MPHb6GhumnKtNp2faMQP5yBL0frtgs6fAxEktmPer_D1Cy46swEZWfIFS=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.aionyxe.synedge"
+    },
+    {
+      "name": "Morphe",
+      "description": "Apply patches to YouTube, YouTube Music, and Reddit to customize their interface and features.",
+      "logo": "https://avatars.githubusercontent.com/u/246280111?s=200&v=4",
+      "url": "https://github.com/MorpheApp/morphe-manager/releases"
+    },
+    {
+      "name": "YTDLnis",
+      "description": "Download video and audio from supported websites, with format selection, playlists, and batch downloads.",
+      "logo": "https://f-droid.org/repo/com.deniscerri.ytdl/en-US/icon_6XMWnTCSfwIxAmHfnKuwS_0TitJcuAmuMNl8_Hxu4KA=.png",
+      "url": "https://github.com/deniscerri/ytdlnis/releases"
+    },
+    {
+      "name": "Gemini Notebook",
+      "description": "Ask questions about your documents, websites, and videos, and turn your sources into summaries and audio overviews.",
+      "logo": "https://play-lh.googleusercontent.com/gQAp2_D_utKEdDI4Nr6_We5DAl2y7kPzoBKo8IE36rSDZyM_R5emL_t9zG4wHop8iMbFHzDVMlYKNTNSnzPCVw=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.labs.language.tailwind"
+    },
+    {
+      "name": "SWYP Launcher",
+      "description": "Launch apps from anywhere using handwriting, voice, keyboard search, and shortcut controls.",
+      "logo": "https://play-lh.googleusercontent.com/ldFxX2Ycbc2Hm6r_8FFieBlwHe2PirAoA02LrmXYa7rcmuO3qtqXmM-9G9t_L2qsdqf_bC1sJzX-XiycA8p91z8=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.joyal.swyplauncher"
+    },
+    {
+      "name": "LocalSend",
+      "description": "Share files between nearby phones and computers over your local network without an account or internet connection.",
+      "logo": "https://play-lh.googleusercontent.com/M33xh7ahqjZnunTUOX1-p13D8z3ZX9R8Y41ooCm5SENNxtN_1htUR0t2M7RKjTL4UxuJ9GAsfBQVleL3g5mLMg=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=org.localsend.localsend_app"
+    },
+    {
+      "name": "PocketPal AI",
+      "description": "Download language models and chat with AI locally on your phone, with offline use after setup.",
+      "logo": "https://play-lh.googleusercontent.com/qUEf7lO0AL-BfhSywZ3T2KL0LbJmOoLpeMI9mRE5siOOyAW0pi8gABBrG9SDEzynisiwG5biXNN98Vi3T3i_HEc=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.pocketpalai"
+    },
+    {
+      "name": "URL Check",
+      "description": "Inspect and edit links before opening them, expand shortened URLs, and remove tracking parameters.",
+      "logo": "https://play-lh.googleusercontent.com/LwHrrBO0zGHC1RQBFKhERWRHvH8jKNmvlcHwU9wwoa6ew1Wfe2ixrOOQfAt1-RcmkWtKV-ZGW4PXkFZmvPC5=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker"
+    },
+    {
+      "name": "Quiet",
+      "description": "An open-source team chat app that synchronizes messages directly between devices over Tor.",
+      "logo": "https://play-lh.googleusercontent.com/T5o9Rfmu6NmPghk6OvEF2rZYGUcIK3Pwbgf205kBP_KX1_OKhvDEUoS9sOMLGJr6VSBhXTFzU5f0sBifxEd7Ghw=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.quietmobile"
+    },
+    {
+      "name": "Scandroid",
+      "description": "Scan documents on your phone and save clear digital copies using an on-device scanning engine.",
+      "logo": "https://play-lh.googleusercontent.com/nfnw8nCmZgVx9xMOIXAL_afpFchwTFuOFZNYbfsrE0AY4PdlEoNbp9-b2Ej_U7RrM9YaERgXa2Zti62EIEscZg=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.ikurek.scandroid"
+    },
+    {
+      "name": "DisMail",
+      "description": "Create disposable email addresses for sign-ups and receive messages without using your main inbox.",
+      "logo": "https://play-lh.googleusercontent.com/TTdx0xoaAkLAj4Srtqp1QGtDj_jjFHkTWFx5Bk8Q4GaRb9T5L0h8ro0peC6gME6O8qieF3BjkSvqU6tPRlqruIw=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.vercel.riblink.disposemail"
+    },
+    {
+      "name": "Obsidian",
+      "description": "Write and connect notes stored on your device, with customizable themes, plugins, and offline access.",
+      "logo": "https://play-lh.googleusercontent.com/EOc78hD6qrp266Xj7niPm_bCTBvDRLCo28VzlxvWHHGDaRPDC4kauewgaIgCurZhkqfglVjEex4Gk0QdLCnKWg=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=md.obsidian"
+    },
+    {
+      "name": "Proton Pass",
+      "description": "Store passwords, autofill logins, and create email aliases in an end-to-end encrypted password manager.",
+      "logo": "https://play-lh.googleusercontent.com/IwiGONE3DIGYD-I8fmu0s0lHd_I2KPhFc-vaOrGaReIGtRTyazn7pXKTh9u10_dnNkZoYw6g9-CfWXnUObtZsoc=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=proton.android.pass"
+    },
+    {
+      "name": "Launchbs",
+      "description": "Photograph objects or places and use AI to generate business ideas and visual concepts.",
+      "logo": "https://play-lh.googleusercontent.com/G-BvnP3xQz5EJTDILvfFOudGkXgegJRivEvgY-hx68ZSbVUER14VNFBatQAt-71g8wyAtZgmb1JDcg_rDi5nXA=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.ideasscanner"
+    },
+    {
+      "name": "Riseup VPN",
+      "description": "A donation-supported VPN that encrypts your internet connection without requiring an account.",
+      "logo": "https://play-lh.googleusercontent.com/BSZ_WJ6MU6pcfjzB0CKiAHNTavQ67nZaKB4TEMpFbDQhJeuBts4Skhk7Zwae2qaVUkbdAnKeAk12jLAFHgR4=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=se.leap.riseupvpn"
+    },
+    {
+      "name": "Streak",
+      "description": "Build routines with habit tracking, activity grids, reminders, and progress statistics that work offline.",
+      "logo": "https://f-droid.org/repo/com.streak.app/en-US/icon_wR3kcq_MsNCb7y7dqQzCQLsaw1gfUj84X5qvX5IKv_A=.png",
+      "url": "https://f-droid.org/en/packages/com.streak.app/"
+    },
+    {
+      "name": "Internet Radio",
+      "description": "Discover online radio stations worldwide, search by country or language, and save your favorites.",
+      "logo": "https://f-droid.org/repo/com.armanmaurya.internetradio/en-US/icon_KtKqNTQP8Da-PmCGFh5EGCgDWu41psQ-zyvmcJquo1U=.png",
+      "url": "https://f-droid.org/en/packages/com.armanmaurya.internetradio/"
+    },
+    {
+      "name": "Phi Launcher",
+      "description": "Create separate home screen spaces and customize your launcher with shortcuts, folders, and gestures.",
+      "logo": "https://play-lh.googleusercontent.com/8339Gl9pLnBhlafZ5ed6k3MNXIkSHtG009sotEDI04azNES_uRo2MQDGbsB-GI8EE31dwzet6N5DdEkAo6jVx9I=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.launcher.hype"
     }
   ],
   "playlists": [
